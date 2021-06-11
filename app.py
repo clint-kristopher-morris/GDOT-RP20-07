@@ -71,7 +71,7 @@ drivers = {}
 # url, urlb4 = generate_url('5917', '2019-08-04', SQL_URL=GDOT_SQL)
 for x in range(num_workers):
     drivers[x] = webdriver.Chrome(
-				  executable_path = '/home/clint/temp/UGA-Masters/VDS_CCS_Project/GUI/GUI/chromedriver',
+				  #executable_path = '/home/clint/temp/UGA-Masters/VDS_CCS_Project/GUI/GUI/chromedriver',
                                   options=chrome_options)
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
