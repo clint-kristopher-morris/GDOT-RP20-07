@@ -1,4 +1,5 @@
 # GDOT-RP20-07
 
-
-["ffff"](https://chromedriver.chromium.org/downloads)
+## Set up
+### Step 1:
+[Download a chrome driver matching your version of chrome](https://chromedriver.chromium.org/downloads)
