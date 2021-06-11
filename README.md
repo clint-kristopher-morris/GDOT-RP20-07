@@ -18,7 +18,8 @@ Launch app by running the following command.
 python app.py
 ```
 ### Step 5:
-Select the URL that appears in the terminal to open the dashboard. 
+Select the URL that appears in the terminal to open the dashboard.
+![title](static/assets/imgs/term.png)
 
 
 
