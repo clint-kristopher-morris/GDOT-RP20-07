@@ -24,7 +24,7 @@ chrome_options.add_argument("--headless")
 
 # chrome_options.headless = True # also works
 driver = webdriver.Chrome(
-				executable_path = '/home/clint/temp/UGA-Masters/VDS_CCS_Project/GUI/GUI/chromedriver',
+				#executable_path = '/home/clint/temp/UGA-Masters/VDS_CCS_Project/GUI/GUI/chromedriver',
 				options=chrome_options)
 from selenium.webdriver.common.keys import Keys
 import urllib.request
