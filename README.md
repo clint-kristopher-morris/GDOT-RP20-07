@@ -25,7 +25,7 @@ Select the URL that appears in the terminal to open the dashboard.
 
 
 
-## Using the application
+## Application Demo
 ![interface](static/assets/imgs/interface.png)
 
 
