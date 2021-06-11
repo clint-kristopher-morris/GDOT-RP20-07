@@ -11,7 +11,9 @@ Download a [chrome driver](https://chromedriver.chromium.org/downloads) matching
 ### Step 3:
 Download historical [CCS-VDS data](https://drive.google.com/file/d/1sJVT0Z2HbnMA9soFFfnMJ-le_DcM-tJc/view?usp=sharing).
 ### Step 4:
-launch app by running the following command.
+Launch app by running the following command.
 ```
 python app.py
 ```
+### Step 5:
+Select the URL that appears in the terminal to open the dashboard. 
