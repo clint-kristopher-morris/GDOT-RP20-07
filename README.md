@@ -1,6 +1,6 @@
 # GDOT-RP20-07
 
-[!title](assests/imgs/title.PNG)
+[!title](static/assets/imgs/title.PNG)
 
 ## Set up
 ### Step 1:
