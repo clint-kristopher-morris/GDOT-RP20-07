@@ -9,4 +9,4 @@ pip install -r requirements.txt
 ### Step 2:
 Download a [chrome driver](https://chromedriver.chromium.org/downloads) matching your version of chrome. Place the driver in the repo folder.
 ### Step 3:
-[For the off line model download historical data.](https://chromedriver.chromium.org/downloads)
+Download historical [CCS-VDS data](https://chromedriver.chromium.org/downloads)
