@@ -21,10 +21,11 @@ python app.py
 ```
 ### Step 6:
 Select the URL that appears in the terminal to open the dashboard.
-![title](static/assets/imgs/term.png)
+![term](static/assets/imgs/term.png)
 
 
 
 ## Using the application
+![interface](static/assets/imgs/interface.png)
 
 
