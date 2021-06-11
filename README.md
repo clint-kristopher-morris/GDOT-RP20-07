@@ -1,5 +1,7 @@
 # GDOT-RP20-07
 
+[!title](assests/imgs/title.PNG)
+
 ## Set up
 ### Step 1:
 Install all required packages by typing the following command into the terminal:
