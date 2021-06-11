@@ -14,7 +14,6 @@ import plotly.graph_objects as go
 import random
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
-import pyautogui
 
 import datetime
 import json, requests, shutil
