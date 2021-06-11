@@ -17,3 +17,9 @@ python app.py
 ```
 ### Step 5:
 Select the URL that appears in the terminal to open the dashboard. 
+
+
+
+## Using the application
+
+
