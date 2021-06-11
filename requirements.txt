@@ -1,0 +1,13 @@
+pip install dash
+pip install plotly
+pip install selenium
+pip install termcolor
+pip install scikit-learn
+pip install PyWavelets
+pip install seaborn
+pip install scaleogram
+pip install urllib3
+pip install bs4
+pip install sympy
+pip install statistics
+pip install tensorflow
