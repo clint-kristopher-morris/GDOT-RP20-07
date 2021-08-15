@@ -6,7 +6,7 @@
 A detailed explanation of the project be found [here](https://drive.google.com/file/d/1_WYg_vVzuz3DLocraJGjaargyCZ7Jt9d/view?usp=sharing).
 
 ### Model Architecture 
-![title](https://i.ibb.co/ccnKnW5/model.png)
+![title](static/assets/imgs/modelSm.png)
 
 ## Set up
 ### Step 1:
