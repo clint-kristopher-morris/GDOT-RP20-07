@@ -8,6 +8,10 @@ A detailed explanation of the project be found [here](https://drive.google.com/f
 ### Model Architecture 
 ![title](static/assets/imgs/modelSm.png)
 
+### Algorithms
+![title](static/assets/imgs/algo1.PNG)
+![title](static/assets/imgs/algo2.PNG)
+
 ## Set up
 ### Step 1:
 Install all required packages by typing the following command into the terminal:
