@@ -6,7 +6,7 @@
 A detailed explanation of the project be found [here](https://drive.google.com/file/d/1_WYg_vVzuz3DLocraJGjaargyCZ7Jt9d/view?usp=sharing).
 
 ### Model Architecture 
-![title](static/assets/imgs/modelSm.png)
+<img src="static/assets/imgs/modelSm.png" width="650"/>
 
 ### Algorithms
 <img src="static/assets/imgs/algo1.PNG" width="650"/>
