@@ -9,8 +9,8 @@ A detailed explanation of the project be found [here](https://drive.google.com/f
 ![title](static/assets/imgs/modelSm.png)
 
 ### Algorithms
-![title](static/assets/imgs/algo1.PNG)
-![title](static/assets/imgs/algo2.PNG)
+<img src="static/assets/imgs/algo1.PNG" width="650"/>
+<img src="static/assets/imgs/algo2.PNG" width="650"/>
 
 ## Set up
 ### Step 1:
